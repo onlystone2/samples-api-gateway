@@ -11,7 +11,6 @@ the relevant service. In this service, Spring Cloud Gateway was used.
     <li>Sleuth</li>
 </ul>
 
-
 ## application.properties File
 Other services routes was defined in this file. Gateway forwards requests 
 using these routes. Zipkin and sleuth properties are in here. Also, 
