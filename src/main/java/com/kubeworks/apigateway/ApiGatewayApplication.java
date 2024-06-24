@@ -1,4 +1,4 @@
-package com.kaankaplan.apigateway;
+package com.kubeworks.apigateway;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
